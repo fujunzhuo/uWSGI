@@ -1,0 +1,10 @@
+     location / {
+            include            uwsgi_params;
+            uwsgi_pass      127.0.0.1:8000;
+        }
+
+http://heipark.iteye.com/blog/1847421
+http://blog.csdn.net/chenggong2dm/article/details/43937433
+
+
+http://blog.csdn.net/crazyhacking/article/details/17957343
